@@ -1,5 +1,5 @@
 # Título Ejercicio: Practica Cargado y Filtrado (Pandas)
-# Autor Jaime Sepúlveda
+# Autor: Jaime Sepúlveda
 # [Bootcamp Data Science  Coding Dojo]
 
 import pandas as pd

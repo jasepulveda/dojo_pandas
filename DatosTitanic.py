@@ -1,10 +1,10 @@
 # Título Ejercicio: Datos Titanic - Ejercicio Pandas
-# Autor Jaime Sepúlveda
+# Autor: Jaime Sepúlveda
 # [Bootcamp Data Science  Coding Dojo]
 
 import pandas as pd
 
-# Cargando los datos e instanciando en el objeto DF bike_df
+# Cargando los datos e instanciando en el objeto
 filename = "./data/titanic.csv"
 df = pd.read_csv(filename)
 
